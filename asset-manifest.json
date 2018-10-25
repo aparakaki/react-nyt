@@ -1,0 +1,14 @@
+{
+  "main.css": "/react-nyt/static/css/main.8b2f29ec.chunk.css",
+  "main.js": "/react-nyt/static/js/main.72c8f30c.chunk.js",
+  "main.js.map": "/react-nyt/static/js/main.72c8f30c.chunk.js.map",
+  "static/js/1.a700ff87.chunk.js": "/react-nyt/static/js/1.a700ff87.chunk.js",
+  "static/js/1.a700ff87.chunk.js.map": "/react-nyt/static/js/1.a700ff87.chunk.js.map",
+  "runtime~main.js": "/react-nyt/static/js/runtime~main.df64ead8.js",
+  "runtime~main.js.map": "/react-nyt/static/js/runtime~main.df64ead8.js.map",
+  "static/media/logo.svg": "/react-nyt/static/media/logo.5d5d9eef.svg",
+  "static/css/main.8b2f29ec.chunk.css.map": "/react-nyt/static/css/main.8b2f29ec.chunk.css.map",
+  "index.html": "/react-nyt/index.html",
+  "precache-manifest.45c8ea7a20add1746e6aa87977071d20.js": "/react-nyt/precache-manifest.45c8ea7a20add1746e6aa87977071d20.js",
+  "service-worker.js": "/react-nyt/service-worker.js"
+}
